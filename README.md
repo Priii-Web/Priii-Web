@@ -1,118 +1,73 @@
-# 👩‍💻 Olá! Eu sou Priscila Tenório
+👋 Olá, eu sou a Priscila Tenório
 
-🎓 Formada em Desenvolvimento Back-End  
-🔐 MBA em Cybersecurity & Cybercrime — concluído
+🎓 Tecnóloga em Desenvolvimento Back-End
+🔐 MBA em Cybersecurity & Cybercrime
 
-Estou em transição de carreira para Segurança da Informação, buscando minha primeira oportunidade na área de TI.
+Sou apaixonada por desenvolvimento seguro e Segurança da Informação.
 
-Minha trajetória reúne conhecimentos em desenvolvimento Back-End e Cybersecurity, com estudos e projetos práticos voltados para SOC, Blue Team, resposta a incidentes, AppSec, DevSecOps e análise estática de código (SAST).
+Atualmente estou aprofundando meus estudos em Application Security (AppSec), DevSecOps, SAST e arquitetura de software, transformando conceitos em projetos práticos para compreender como aplicações podem ser desenvolvidas e protegidas desde a fase de implementação.
 
-Utilizo minha base em desenvolvimento para compreender sistemas, analisar vulnerabilidades, investigar eventos de segurança e contribuir para a construção de aplicações mais seguras.
+🛡️ Áreas de estudo
 
-## 🛡️ Áreas de estudo e prática
+Application Security (AppSec)
+DevSecOps
+Static Application Security Testing (SAST)
+Segurança em SSL/TLS
+OWASP Top 10
+CWE
+Secure Software Development
+Arquitetura de Software
+APIs REST
+Python
 
-- SOC Nível 1 e análise de logs
-- Blue Team e resposta a incidentes
-- AppSec e DevSecOps
-- SAST e análise estática de código
-- OWASP Top 10 e CWE
-- Segurança em SSL/TLS
-- LGPD e proteção de dados
-- Linux e fundamentos de redes
-- Security by Design
+🚀 Projetos em destaque
 
-## 🧰 Tecnologias e ferramentas
+🔹 Secure Code Analyzer
 
-- Python
-- FastAPI e Flask
-- Git e GitHub
-- GitHub Actions
-- Linux
-- SQL e MySQL
-- APIs REST
-- Java
-- Docker — conhecimentos básicos
-- SIEM — conceitos e estudos práticos
-- Power BI — análise e visualização de dados
+Scanner SAST desenvolvido em Python para estudar a arquitetura interna de ferramentas de análise estática de código, incluindo regras de segurança, Findings, CWE, relatórios e integração com GitHub Actions.
 
-## 📂 Projetos em destaque
+🔹 Mini SOC Portfolio
 
-### 🔍 Motor SAST Customizado & Pipeline DevSecOps
+Simulação prática de atividades de um Analista SOC Nível 1, com foco em monitoramento, análise de logs Windows/Linux e documentação técnica.
 
-Projeto educacional desenvolvido em Python para compreender, na prática, o funcionamento de um scanner SAST integrado a uma pipeline DevSecOps.
+🔹 Blue Team – Incident Response
 
-O scanner analisa um arquivo de código-fonte e identifica o uso inseguro de `verify=False`, configuração que desativa a validação de certificados SSL/TLS.
+Projeto voltado para resposta a incidentes, análise de eventos, classificação de severidade e documentação.
 
-A análise foi integrada ao GitHub Actions. Quando o scanner encontra uma vulnerabilidade, o comando `sys.exit(1)` encerra a execução com código de erro, fazendo a pipeline falhar. Esse comportamento funciona como um **security gate**, impedindo que um código considerado inseguro avance na esteira.
+💻 Tecnologias
+Python
+FastAPI
+Flask
+Git
+GitHub Actions
+Linux
+SQL / MySQL
+Docker (básico)
+Java
+APIs REST
 
-O scanner também ignora linhas comentadas, reduzindo alertas indevidos nesse cenário de teste.
+📚 Atualmente estudando
+Arquitetura de Software
+Engenharia de Software
+Desenvolvimento Seguro
+Scanner SAST
+DevSecOps
+CI/CD
+Segurança de Aplicações
 
-**Conceitos praticados:**
+🎯 Objetivo
 
-- Análise estática de código (SAST)
-- Pipeline CI/CD com GitHub Actions
-- Security gate com `sys.exit(1)`
-- Shift-Left Security
-- AppSec e DevSecOps
-- SSL/TLS e validação de certificados
-- Tratamento básico de falsos positivos
+Busco minha primeira oportunidade em Tecnologia nas áreas de:
 
-➡️ [Acessar o projeto desafio-sast](https://github.com/Priii-Web/desafio-sast)
+Application Security (AppSec)
+DevSecOps
+Segurança da Informação
+Desenvolvimento Back-End
 
+Acredito que compreender como o software é construído é um passo essencial para protegê-lo.
 
-### 🛡️ Mini SOC Portfolio
-
-Projeto educacional que simula atividades realizadas por um Analista SOC Nível 1, com foco em monitoramento, análise de logs, identificação de eventos de segurança e documentação técnica.
-
-O projeto reúne estudos e simulações de incidentes em ambientes Windows e Linux, contribuindo para o desenvolvimento do raciocínio analítico aplicado ao Blue Team.
-
-**Principais conceitos aplicados:**
-
-- Monitoramento de eventos de segurança
-- Análise de logs Windows e Linux
-- Identificação de tentativas de autenticação
-- Triagem e classificação de incidentes
-- Detecção e resposta a ameaças
-- Documentação técnica
-
-➡️ [Acessar o Mini SOC Portfolio](https://github.com/Priii-Web/mini-soc-portfolio)
-
-### 🚨 Blue Team — Incident Response
-
-Projeto prático voltado para a simulação de resposta a incidentes de segurança, incluindo análise dos eventos, elaboração de linha do tempo, classificação de severidade e documentação técnica.
-
-**Principais conceitos aplicados:**
-
-- Resposta a incidentes
-- Análise e correlação de eventos
-- Classificação de severidade
-- Construção de linha do tempo
-- Registro de tickets e evidências
-- SLA e documentação técnica
-
-➡️ [Acessar o projeto Blue Team — Incident Response](https://github.com/Priii-Web/blue-team-incident-response)
-
-## 💬 Recomendação profissional
-
-> “O projeto de Mini SOC da Priscila demonstra muita dedicação e estudo prático. Ela deixou a teoria de lado e implementou um SOC com vários casos de uso, com foco em monitoramento, detecção e resposta, incluindo análise de risco, de forma totalmente inovadora e eficiente. Gostaria de recomendá-la por sua criatividade, competência, proatividade e por estudar profundamente tudo o que foi proposto. Merecedora demais!”
-
-**Matheus Gonçalves**  
-Senior Cybersecurity Engineer | SOC & AppSec Lead | CVE Author
-
-🔗 Recomendação disponível na seção “Recomendações” do meu [perfil no LinkedIn](https://www.linkedin.com/in/priscila-tenorio-dev)
-
-## 🎯 Objetivo profissional
-
-Busco minha primeira oportunidade como Analista de Segurança da Informação Júnior, Analista SOC N1, Analista de TI ou em áreas relacionadas a AppSec e DevSecOps.
-
-Meu objetivo é aplicar os conhecimentos adquiridos na formação acadêmica e nos projetos de portfólio, continuar aprendendo com profissionais da área e contribuir para a proteção de sistemas, aplicações e dados.
-
-## 📫 Contato
-
-🔗 **LinkedIn:** [linkedin.com/in/priscila-tenorio-dev](https://www.linkedin.com/in/priscila-tenorio-dev)  
-📧 **E-mail:** [priii.web@gmail.com](mailto:priii.web@gmail.com)  
-🌐 **Portfólio pessoal:** [prii-web.github.io](https://prii-web.github.io)
-
----
+📫 Contato
+💼 LinkedIn: linkedin.com/in/priscila-tenorio-dev
+🌐 Portfólio: prii-web.github.io
 
 📌 Em constante aprendizado, transformando conhecimento em projetos práticos de Cybersecurity.
