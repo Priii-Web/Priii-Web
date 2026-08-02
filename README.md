@@ -1,82 +1,138 @@
-👋 Olá, eu sou a Priscila Tenório
+# 👋 Olá, eu sou a Priscila Tenório
 
-🎓 Tecnóloga em Desenvolvimento Back-End
+🎓 Tecnóloga em Desenvolvimento Back-End  
 🔐 MBA em Cybersecurity & Cybercrime
 
 Sou apaixonada por desenvolvimento seguro e Segurança da Informação.
 
-Atualmente estou aprofundando meus estudos em Application Security (AppSec), DevSecOps, SAST e arquitetura de software, transformando conceitos em projetos práticos para compreender como aplicações podem ser desenvolvidas e protegidas desde a fase de implementação.
+Atualmente estou aprofundando meus estudos em **Application Security (AppSec)**, **DevSecOps**, **SAST** e **Arquitetura de Software**, transformando conceitos em projetos práticos para compreender como aplicações podem ser desenvolvidas e protegidas desde as primeiras etapas do ciclo de desenvolvimento.
 
-🛡️ Áreas de estudo
-Application Security (AppSec)
-DevSecOps
-Static Application Security Testing (SAST)
-Segurança em SSL/TLS
-OWASP Top 10
-CWE
-Secure Software Development
-Arquitetura de Software
-APIs REST
-Python
-🚀 Projetos em destaque
+---
 
-🔹 Secure Code Analyzer
+# 🛡️ Áreas de Estudo
 
-Scanner SAST desenvolvido em Python para estudar a arquitetura interna de ferramentas de análise estática de código, incluindo regras de segurança, Findings, CWE, relatórios e integração com GitHub Actions.
+- Application Security (AppSec)
+- DevSecOps
+- Static Application Security Testing (SAST)
+- Segurança em SSL/TLS
+- OWASP Top 10
+- Common Weakness Enumeration (CWE)
+- Secure Software Development
+- Arquitetura de Software
+- APIs REST
+- Python
 
-🔹 Mini SOC Portfolio
+---
 
-Simulação prática de atividades de um Analista SOC Nível 1, com foco em monitoramento, análise de logs Windows/Linux e documentação técnica.
+# 🚀 Projetos em Destaque
 
-🔹 Blue Team – Incident Response
+## 🛡️ Motor SAST Customizado & Pipeline DevSecOps
 
-Projeto voltado para resposta a incidentes, análise de eventos, classificação de severidade e documentação.
+Projeto educacional desenvolvido para compreender como um scanner SAST pode ser integrado a uma pipeline CI/CD utilizando GitHub Actions.
 
-💻 Tecnologias
-Python
-FastAPI
-Flask
-Git
-GitHub Actions
-Linux
-SQL / MySQL
-Docker (básico)
-Java
-APIs REST
-📚 Atualmente estudando
-Arquitetura de Software
-Engenharia de Software
-Desenvolvimento Seguro
-Scanner SAST
-DevSecOps
-CI/CD
-Segurança de Aplicações
-🎯 Objetivo
+Durante este projeto estudei conceitos como:
+
+- Pipeline CI/CD
+- GitHub Actions
+- Security Gate
+- Detecção da vulnerabilidade `verify=False`
+- Noções de SSL/TLS
+- Tratamento básico de falsos positivos
+
+Atualmente estou evoluindo meus estudos para compreender a arquitetura interna de scanners SAST, incluindo modularização, sistema de regras, Findings, CWE e geração de relatórios.
+
+---
+
+## 🛡️ Mini SOC Portfolio
+
+Projeto prático que simula atividades realizadas por um Analista SOC Nível 1, com foco em monitoramento, análise de incidentes, análise de logs Windows/Linux e documentação técnica.
+
+Principais conceitos praticados:
+
+- Monitoramento de eventos
+- Análise de Logs
+- Blue Team
+- Incident Response
+- Documentação Técnica
+
+---
+
+## 🚨 Blue Team – Incident Response
+
+Projeto educacional voltado para simulação de resposta a incidentes de segurança.
+
+Conceitos aplicados:
+
+- Investigação de incidentes
+- Classificação de severidade
+- Linha do tempo
+- Evidências
+- Documentação técnica
+
+---
+
+# 💻 Tecnologias
+
+- Python
+- FastAPI
+- Flask
+- Git
+- GitHub Actions
+- Linux
+- SQL / MySQL
+- Docker (básico)
+- Java
+- APIs REST
+
+---
+
+# 📚 Atualmente Estudando
+
+- Arquitetura de Software
+- Engenharia de Software
+- Desenvolvimento Seguro
+- Application Security (AppSec)
+- Arquitetura de Scanners SAST
+- DevSecOps
+- CI/CD
+- Segurança de Aplicações
+
+---
+
+# 💬 Recomendação Profissional
+
+> *"O projeto de Mini SOC da Priscila demonstra muita dedicação e estudo prático. Ela deixou a teoria de lado e implementou um SOC com vários casos de uso, com foco em monitoramento, detecção e resposta, incluindo análise de risco, de forma totalmente inovadora e eficiente. Gostaria de recomendá-la por sua criatividade, competência, proatividade e por estudar profundamente tudo o que foi proposto. Merecedora demais!"*
+
+**Matheus Gonçalves**  
+*Senior Cybersecurity Engineer | SOC & AppSec Lead | CVE Author*
+
+---
+
+# 🎯 Objetivo
 
 Busco minha primeira oportunidade em Tecnologia nas áreas de:
 
-Application Security (AppSec)
-DevSecOps
-Segurança da Informação
-Desenvolvimento Back-End
+- Segurança da Informação
+- Application Security (AppSec)
+- DevSecOps
+- Analista SOC Nível 1
+- Desenvolvimento Back-End
 
-Acredito que compreender como o software é construído é um passo essencial para protegê-lo.
+Acredito que compreender profundamente como o software é construído é um passo essencial para desenvolver aplicações mais seguras.
 
-📫 Contato
-💼 LinkedIn: linkedin.com/in/priscila-tenorio-dev
-🌐 Portfólio: prii-web.github.io
-O que eu mudaria no seu GitHub como um todo
+---
 
-Além do README, faria estes ajustes:
+# 📫 Contato
 
-📌 Deixaria 3 projetos fixados:
-Secure Code Analyzer
-Mini SOC Portfolio
-Blue Team – Incident Response
-📖 Padronizaria todos os READMEs com o mesmo estilo (objetivo, arquitetura, tecnologias, roadmap e aprendizados).
-🏷️ Colocaria descrições curtas e profissionais nos repositórios, por exemplo:
-Secure Code Analyzer → Educational SAST scanner built in Python to study static application security testing, software architecture and DevSecOps.
-Mini SOC Portfolio → Hands-on SOC Level 1 portfolio focused on log analysis and incident investigation.
-Blue Team – Incident Response → Educational incident response project with event analysis, severity classification and technical documentation.
+💼 **LinkedIn:**  
+https://linkedin.com/in/priscila-tenorio-dev
 
-"Acredito que aprender profundamente os fundamentos é o primeiro passo para desenvolver soluções seguras. Cada projeto deste GitHub representa um conceito estudado, implementado e documentado como parte da minha evolução em Cybersecurity, AppSec e Engenharia de Software."
+📧 **E-mail:**  
+priii.web@gmail.com
+
+🌐 **Portfólio:**  
+https://prii-web.github.io
+
+---
+
+> 💡 **"Cada projeto deste GitHub representa um conceito estudado, implementado e documentado como parte da minha evolução em Desenvolvimento Back-End, Cybersecurity e Application Security."**
